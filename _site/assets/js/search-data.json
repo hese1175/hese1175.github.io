@@ -1,44 +1,366 @@
 {"0": {
-    "doc": "Module 1",
-    "title": "Project Assignments",
-    "content": " ",
-    "url": "/docs/Project%20Assignments/Module%201/#project-assignments",
+    "doc": "Association Rule Mining <b>(ARM)</b>",
+    "title": "Association Rule Mining (ARM)",
+    "content": ". | Overview | Data | Code | Results | . ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/arm/#association-rule-mining-arm",
     
-    "relUrl": "/docs/Project%20Assignments/Module%201/#project-assignments"
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/arm/#association-rule-mining-arm"
   },"1": {
-    "doc": "Module 1",
-    "title": "Module 1",
+    "doc": "Association Rule Mining <b>(ARM)</b>",
+    "title": "Overview",
     "content": " ",
-    "url": "/docs/Project%20Assignments/Module%201/",
+    "url": "/docs/CSCI%205622%20-%20ML/models/arm/#overview",
     
-    "relUrl": "/docs/Project%20Assignments/Module%201/"
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/arm/#overview"
   },"2": {
-    "doc": "Test",
-    "title": "Test",
+    "doc": "Association Rule Mining <b>(ARM)</b>",
+    "title": "Data",
     "content": " ",
-    "url": "/docs/index-test/",
+    "url": "/docs/CSCI%205622%20-%20ML/models/arm/#data",
     
-    "relUrl": "/docs/index-test/"
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/arm/#data"
   },"3": {
-    "doc": "Project Assignments",
-    "title": "Project Assignments",
+    "doc": "Association Rule Mining <b>(ARM)</b>",
+    "title": "Code",
     "content": " ",
-    "url": "/docs/Project%20Assignments/",
+    "url": "/docs/CSCI%205622%20-%20ML/models/arm/#code",
     
-    "relUrl": "/docs/Project%20Assignments/"
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/arm/#code"
   },"4": {
-    "doc": "Home",
-    "title": "Focus on writing good documentation",
+    "doc": "Association Rule Mining <b>(ARM)</b>",
+    "title": "Results",
     "content": " ",
-    "url": "/#focus-on-writing-good-documentation",
+    "url": "/docs/CSCI%205622%20-%20ML/models/arm/#results",
     
-    "relUrl": "/#focus-on-writing-good-documentation"
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/arm/#results"
   },"5": {
+    "doc": "Association Rule Mining <b>(ARM)</b>",
+    "title": "Association Rule Mining <b>(ARM)</b>",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/arm/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/arm/"
+  },"6": {
+    "doc": "Clustering",
+    "title": "Clustering",
+    "content": ". | Overview | Data | Code | Results | . ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/clustering/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/clustering/"
+  },"7": {
+    "doc": "Clustering",
+    "title": "Overview",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/clustering/#overview",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/clustering/#overview"
+  },"8": {
+    "doc": "Clustering",
+    "title": "Data",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/clustering/#data",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/clustering/#data"
+  },"9": {
+    "doc": "Clustering",
+    "title": "Code",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/clustering/#code",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/clustering/#code"
+  },"10": {
+    "doc": "Clustering",
+    "title": "Results",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/clustering/#results",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/clustering/#results"
+  },"11": {
+    "doc": "Conclusion",
+    "title": "Conclusion",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/conclusion/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/conclusion/"
+  },"12": {
+    "doc": "Data Preparation/EDA",
+    "title": "Data Preparation/EDA",
+    "content": ". | Data Preparation | Data Cleaning | Prelim Exploratory Data Analysis | . ",
+    "url": "/docs/CSCI%205622%20-%20ML/data_prep/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/data_prep/"
+  },"13": {
+    "doc": "Data Preparation/EDA",
+    "title": "Data Preparation",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/data_prep/#data-preparation",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/data_prep/#data-preparation"
+  },"14": {
+    "doc": "Data Preparation/EDA",
+    "title": "Data Cleaning",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/data_prep/#data-cleaning",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/data_prep/#data-cleaning"
+  },"15": {
+    "doc": "Data Preparation/EDA",
+    "title": "Prelim Exploratory Data Analysis",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/data_prep/#prelim-exploratory-data-analysis",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/data_prep/#prelim-exploratory-data-analysis"
+  },"16": {
+    "doc": "Decision Trees <b>(DT)</b>",
+    "title": "Decision Trees (DT)",
+    "content": ". | Overview | Data | Code | Results | . ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/dt/#decision-trees-dt",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/dt/#decision-trees-dt"
+  },"17": {
+    "doc": "Decision Trees <b>(DT)</b>",
+    "title": "Overview",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/dt/#overview",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/dt/#overview"
+  },"18": {
+    "doc": "Decision Trees <b>(DT)</b>",
+    "title": "Data",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/dt/#data",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/dt/#data"
+  },"19": {
+    "doc": "Decision Trees <b>(DT)</b>",
+    "title": "Code",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/dt/#code",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/dt/#code"
+  },"20": {
+    "doc": "Decision Trees <b>(DT)</b>",
+    "title": "Results",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/dt/#results",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/dt/#results"
+  },"21": {
+    "doc": "Decision Trees <b>(DT)</b>",
+    "title": "Decision Trees <b>(DT)</b>",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/dt/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/dt/"
+  },"22": {
+    "doc": "CSCI 5622 - ML",
+    "title": "CSCI 5622 - Machine Learning",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/index-CSCI/#csci-5622---machine-learning",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/index-CSCI/#csci-5622---machine-learning"
+  },"23": {
+    "doc": "CSCI 5622 - ML",
+    "title": "CSCI 5622 - ML",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/index-CSCI/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/index-CSCI/"
+  },"24": {
+    "doc": "Home",
+    "title": "Welcome to Hemant’s Personal Website",
+    "content": ". ",
+    "url": "/#welcome-to-hemants-personal-website",
+    
+    "relUrl": "/#welcome-to-hemants-personal-website"
+  },"25": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
+  },"26": {
+    "doc": "Models/Methods",
+    "title": "Model/Methods",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/index-models/#modelmethods",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/index-models/#modelmethods"
+  },"27": {
+    "doc": "Models/Methods",
+    "title": "Models/Methods",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/index-models/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/index-models/"
+  },"28": {
+    "doc": "Introduction",
+    "title": "Introduction",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/introduction/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/introduction/"
+  },"29": {
+    "doc": "Naive Bayes <b>(NB)</b>",
+    "title": "Naive Bayes (NB)",
+    "content": ". | Overview | Data | Code | Results | . ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/nb/#naive-bayes-nb",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/nb/#naive-bayes-nb"
+  },"30": {
+    "doc": "Naive Bayes <b>(NB)</b>",
+    "title": "Overview",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/nb/#overview",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/nb/#overview"
+  },"31": {
+    "doc": "Naive Bayes <b>(NB)</b>",
+    "title": "Data",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/nb/#data",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/nb/#data"
+  },"32": {
+    "doc": "Naive Bayes <b>(NB)</b>",
+    "title": "Code",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/nb/#code",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/nb/#code"
+  },"33": {
+    "doc": "Naive Bayes <b>(NB)</b>",
+    "title": "Results",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/nb/#results",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/nb/#results"
+  },"34": {
+    "doc": "Naive Bayes <b>(NB)</b>",
+    "title": "Naive Bayes <b>(NB)</b>",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/nb/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/nb/"
+  },"35": {
+    "doc": "Principal Component Analysis <b>(PCA)</b>",
+    "title": "Principal Component Analysis (PCA)",
+    "content": ". | Overview | Data | Code | Results | . ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/pca/#principal-component-analysis-pca",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/pca/#principal-component-analysis-pca"
+  },"36": {
+    "doc": "Principal Component Analysis <b>(PCA)</b>",
+    "title": "Overview",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/pca/#overview",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/pca/#overview"
+  },"37": {
+    "doc": "Principal Component Analysis <b>(PCA)</b>",
+    "title": "Data",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/pca/#data",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/pca/#data"
+  },"38": {
+    "doc": "Principal Component Analysis <b>(PCA)</b>",
+    "title": "Code",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/pca/#code",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/pca/#code"
+  },"39": {
+    "doc": "Principal Component Analysis <b>(PCA)</b>",
+    "title": "Results",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/pca/#results",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/pca/#results"
+  },"40": {
+    "doc": "Principal Component Analysis <b>(PCA)</b>",
+    "title": "Principal Component Analysis <b>(PCA)</b>",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/pca/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/pca/"
+  },"41": {
+    "doc": "Regression",
+    "title": "Regression",
+    "content": ". | Overview | Data | Code | Results | . ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/regression/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/regression/"
+  },"42": {
+    "doc": "Regression",
+    "title": "Overview",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/regression/#overview",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/regression/#overview"
+  },"43": {
+    "doc": "Regression",
+    "title": "Data",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/regression/#data",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/regression/#data"
+  },"44": {
+    "doc": "Regression",
+    "title": "Code",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/regression/#code",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/regression/#code"
+  },"45": {
+    "doc": "Regression",
+    "title": "Results",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/regression/#results",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/regression/#results"
+  },"46": {
+    "doc": "Support Vector Machines <b>(SVM)</b>",
+    "title": "Support Vector Machines (SVM)",
+    "content": ". | Overview | Data | Code | Results | . ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/svm/#support-vector-machines-svm",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/svm/#support-vector-machines-svm"
+  },"47": {
+    "doc": "Support Vector Machines <b>(SVM)</b>",
+    "title": "Overview",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/svm/#overview",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/svm/#overview"
+  },"48": {
+    "doc": "Support Vector Machines <b>(SVM)</b>",
+    "title": "Data",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/svm/#data",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/svm/#data"
+  },"49": {
+    "doc": "Support Vector Machines <b>(SVM)</b>",
+    "title": "Code",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/svm/#code",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/svm/#code"
+  },"50": {
+    "doc": "Support Vector Machines <b>(SVM)</b>",
+    "title": "Results",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/svm/#results",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/svm/#results"
+  },"51": {
+    "doc": "Support Vector Machines <b>(SVM)</b>",
+    "title": "Support Vector Machines <b>(SVM)</b>",
+    "content": " ",
+    "url": "/docs/CSCI%205622%20-%20ML/models/svm/",
+    
+    "relUrl": "/docs/CSCI%205622%20-%20ML/models/svm/"
   }
 }

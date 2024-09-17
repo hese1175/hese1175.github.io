@@ -6,4 +6,7 @@ description: "Test description."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Welcome to Hemant's Personal Website
+{: .no_toc }
+
+![Welcome Image](/assets/imgs/home.png)
