@@ -146,7 +146,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 footer_content: 'Copyright &copy; <script>document.write(new Date().getFullYear())</script>
- <a href="{{https://github.com/hese1175/hese1175.github.io/}}">HS Website</a>. All rights reserved.'
+ <a href="https://github.com/hese1175/hese1175.github.io/">HS Website</a>. All rights reserved.'
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
