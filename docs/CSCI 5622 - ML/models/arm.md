@@ -15,12 +15,9 @@ nav_order: 3
 Association Rule Mining **(ARM)** is a method used to discover interesting relations between variables in large transaction type databases. It involves identifying patterns and associations between items in a dataset, which can be used to make predictions and/or recommendations. The most common application of ARM is in market basket analysis, where the goal is to identify items that are frequently purchased together. This information can be used to optimize product placement, marketing strategies, and inventory management.
 
 Some key concepts in ARM include:
-- **Support**: The proportion of transactions that contain a particular itemset. It is calculated as the number of transactions containing the itemset divided by the total number of transactions. \
-$$ Support(\{X\} \rightarrow \{Y\}) = {{Transaction\ containing\ both\ X\ and\ Y} \over {Total\ number\ of\ transactions}} $$
+- **Support**: The proportion of transactions that contain a particular itemset. It is calculated as the number of transactions containing the itemset divided by the total number of transactions. 
 - **Confidence**: The likelihood that an item B is purchased given that item A is purchased. It is calculated as the number of transactions containing both items A and B divided by the number of transactions containing item A.
-$$ Confidence(\{X\} \rightarrow \{Y\}) = {{Transaction\ containing\ both\ X\ and\ Y} \over {Transactions\ containing\ only\ X}} $$
 - **Lift**: The ratio of the observed support to the expected support if the two items were independent. It is calculated as the confidence of the rule divided by the support of item B.
-$$ Lift(\{X\} \rightarrow \{Y\}) = {{{Transaction\ containing\ both\ X\ and\ Y} \over {Transactions\ containing\ only\ X}} \over {Fraction\ of\ transactions\ containing\ Y}} $$
 
 ![ARM Transaction Plot](/assets/imgs/arm/ARM_img1.png)
 *The network graph above shows associations between selected items. Larger circles imply higher support, while red circles imply higher lift*
