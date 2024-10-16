@@ -13,8 +13,6 @@ nav_order: 1
 
 ## Overview
 
-# explain PCA and distance metrics
-
 PCA is a dimensionality reduction technique that is widely used in machine learning and data analysis. It is used to reduce the number of features in a dataset while retaining as much information as possible. PCA works by transforming the original features into a new set of orthogonal features called principal components. These components are ordered by the amount of variance they explain in the data. The first principal component explains the most variance, the second principal component explains the second most variance, and so on. By selecting only the top principal components, you can reduce the dimensionality of the dataset while retaining most of the information.
 
 ![PCA OG](/assets/imgs/pca/PCA_original.png)
