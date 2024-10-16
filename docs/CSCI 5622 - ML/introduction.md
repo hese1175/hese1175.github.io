@@ -12,12 +12,18 @@ nav_order: 1
 
 ## Wind Energy 
 
-\
 Wind energy is a key component in the mitigation strategy for climate change. It has grown into a significant sector in the global renewable energy landscape. However, the growth has not been fast enough to meet the climate change targets. The wind energy sector is facing challenges in terms of cost, reliability, efficiency and more recently, recyclability. Wind blades are one of the most expensive components of the turbine as well as the most difficult to recycle. 
+![Wind Turbine](/assets/imgs/wind_turbine.png)
+
 
 Recyclable wind turbines will help reduce cost by enabling the reuse of expensive materials while reducing waste. This will help wind energy become more competitive in the renewable energy space.
 
-This project will aim to address the recyclability of wind blades. The project will focus on the development of a machine learning model to analyze characteristics of current renewable, recyclable composite materials, and compare their properties to that of traditional materials (epoxy and fiberglass).
+![Wind Energy Growth](/assets/imgs/sweetwater-wind-blades.jpg)
+*Wind Turbines in Landfill as the materials cannot be recycled*
+
+This project will aim to address the recyclability of wind blades. The project will focus on the development of a machine learning model to analyze characteristics of current renewable, recyclable composite materials, and compare their properties to that of traditional materials (epoxy and fiberglass). By analyzing the results from current materials, the model will be able to predict which characteristics are most important for recyclable materials. 
+
+In this project, two datasets will be used. The first dataset is the OptiDAT dataset which contains material properties of wind turbine blades. The second dataset is the SNL/DOE/MSU dataset which also has recent material properties of wind turbine blades. The datasets will be used to train the machine learning model to predict the most important characteristics of recyclable materials.
 
 There is a need for new technologies and innovations to address these challenges and make wind energy more competitive in the renewable energy space. 
 
@@ -87,3 +93,7 @@ Images are available in the assets/imgs folder.
 \
 [Images and Plots](/assets/imgs)
 
+References: \
+[1]: https://www.texasmonthly.com/news-politics/sweetwater-wind-turbine-blades-dump/ \
+[2]: Wiser, R.; Bolinger, M.; Hoen, B. Land-Based Wind Market Report: 2022 Edition, Department of Energey Report, 2022. \
+[3]: Komusanac, I.; Brindley, G.; Fraile, D.; Ramirez, L. Wind Energy in Europe: 2021 Statistics and the Outlook for 2022-2026, WindEurope Report, 2022.
