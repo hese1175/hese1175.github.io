@@ -25,7 +25,7 @@ This project will aim to address the recyclability of wind blades. The project w
 
 In this project, two datasets will be used. The first dataset is the OptiDAT dataset which contains material properties of wind turbine blades. The second dataset is the SNL/DOE/MSU dataset which also has recent material properties of wind turbine blades. The datasets will be used to train the machine learning model to predict the most important characteristics of recyclable materials.
 
-There is a need for new technologies and innovations to address these challenges and make wind energy more competitive in the renewable energy space. 
+By identifying and predicting the most important features of the data, the model will help researchers and engineers develop new materials faster and in an efficient manner. There is a need for new technologies and innovations to address these challenges and make wind energy more competitive in the renewable energy space. 
 
 ### Raw Data Image
 
