@@ -1,5 +1,5 @@
 ---
-title: Ensemble Learning>
+title: Ensemble Learning
 parent: Models/Methods
 nav_order: 8
 ---
@@ -60,6 +60,6 @@ weighted avg       0.96      0.96      0.96        45
 
 Finally, the confusion matrix for the model is:
 
-![Confusion Matrix](/assets/imgs/ensemble/cm.png)
+![Confusion Matrix](/assets/imgs/ensemble/cm_ensemble.png)
 
 The model performs well with an accuracy of 95.56%. The model is able to predict the modulus of the samples with high precision and recall. The confusion matrix shows that the model is able to correctly classify most of the samples. The model can be used to predict the modulus of new samples with high accuracy.
