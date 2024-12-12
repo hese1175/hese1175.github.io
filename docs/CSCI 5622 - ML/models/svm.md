@@ -64,9 +64,9 @@ Reference:
 
 The raw data is available here:
 
-[Optidat_dataset](../../../assets/data/Optidat_dataset.xls)
+[Optidat_dataset](https://github.com/hese1175/hese1175.github.io/blob/main/assets/data/Optidat_dataset.xls)
 
-[Cleaned Data](../../../assets/data/cleaned_data_export.csv)
+[Cleaned Data](https://github.com/hese1175/hese1175.github.io/blob/main/assets/data/cleaned_data_export.csv)
 
 The data is filtered and reduced to just the labeled numerical columns. Here is how the data looks like:
 

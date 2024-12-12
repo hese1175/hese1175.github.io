@@ -27,7 +27,7 @@ Reference:
 
 ## Data
 
-The data is prepared in a similar fashion to the SVM model. [SVM Data Prep](svm.md/#data)
+The data is prepared in a similar fashion to the SVM model. [SVM Data Prep](https://hese1175.github.io/docs/CSCI%205622%20-%20ML/models/svm/#data)
 
 ## Code
 
