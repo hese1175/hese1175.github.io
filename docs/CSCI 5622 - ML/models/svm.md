@@ -62,6 +62,12 @@ Reference:
 
 ## Data
 
+The raw data is available here:
+
+[Optidat_dataset](../../../assets/data/Optidat_dataset.xls)
+
+[Cleaned Data](../../../assets/data/cleaned_data_export.csv)
+
 The data is filtered and reduced to just the labeled numerical columns. Here is how the data looks like:
 
 ```
